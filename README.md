@@ -1,4 +1,3 @@
-```markdown
 # Creating a Web API with ASP.NET Core and MongoDB
 
 ## Overview
@@ -90,4 +89,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License.
-```
